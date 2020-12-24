@@ -1,0 +1,4 @@
+isrequeststofiles: false
+logpath: ./api-logs.txt
+port: 8080
+requeststofilespath: ./http-requests
